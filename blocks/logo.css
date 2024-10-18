@@ -1,0 +1,23 @@
+.logo {
+  display: block;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  width: 100%;
+  padding-top: 34px;
+}
+.logo__image {
+  display: block;
+  max-width: 32px;
+  width: 100%;
+  padding-bottom: 22px;
+  margin: auto;
+}
+.logo__text {
+  display: block;
+  max-width: 255px;
+  width: 100%;
+  color: #fff;
+  margin: auto;
+  padding-bottom: 91px;
+}
