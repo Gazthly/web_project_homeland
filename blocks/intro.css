@@ -18,7 +18,7 @@
   margin-top: 0;
 }
 
-.intro__text_1 {
+.intro__text__1 {
   max-width: 738px;
   width: 100%;
   font-family: "Inter", sans-serif;
@@ -42,7 +42,7 @@
   margin-top: 0;
 }
 
-.intro__text_2 {
+.intro__text__2 {
   max-width: 722px;
   width: 100%;
   font-family: "Inter", sans-serif;
