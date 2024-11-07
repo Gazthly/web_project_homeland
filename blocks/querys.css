@@ -115,12 +115,12 @@
     max-width: 352px;
   }
 
-  .website__url-heading {
+  .place__url-heading {
     max-width: 67px;
     line-height: 15px;
   }
 
-  .website__artist {
+  .place__artist {
     max-width: 352px;
     margin: 0;
   }
@@ -249,13 +249,13 @@
     max-height: 89px;
   }
 
-  .website__url-heading {
+  .place__url-heading {
     max-width: 288px;
     margin: auto;
     padding-bottom: 8px;
   }
 
-  .website__artist {
+  .place__artist {
     max-width: 288px;
     text-align: left;
     margin: auto;
