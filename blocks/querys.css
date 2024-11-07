@@ -284,15 +284,9 @@
     max-width: 288px;
     width: 100%;
     margin: auto;
-  }
-
-  .place__button__paragraph {
-    max-width: 194px;
     font-size: 14px;
     font-weight: 600;
     line-height: 17px;
-    color: #fff;
-    text-decoration: none;
   }
 
   .footer {
