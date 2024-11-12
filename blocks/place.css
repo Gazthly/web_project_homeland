@@ -73,6 +73,8 @@
 }
 
 .place__paragraphs {
+  max-width: 460px;
+  width: 100%;
   grid-area: paragraph;
   display: flex;
   flex-direction: column;
